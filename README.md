@@ -1,39 +1,16 @@
-- 👋 Hi, I’m @Languala
-- 👀 I’m interested in ...
+- Hi, I’m @Languala
+- I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-Siz Languala deyishga qiynalyabsizmi, demak chet tillarini organish v
+ 👋 Siz Languala deyishga qiynalyabsizmi, demak chet tillarini organish v
 Vaqt-soati keldi! O'rganishuchun pulingiz yetarli emasmi? O'quv markaz uzoqlik qilyabtimi? Telefoningizga har hil pullik dasturlar yuklayverib charchadingizmi? Unda Languala sizga xohlagan darajani bepul o'rganish imkoniyatini bermoqda, muximi dunyoning istalgan markazidan turib o'rgansa bo'ladi! Sifatli darslar, ajoyib metodika, videoqo'llanmalar darslar ketma-ketligida bo'ladi. Eng muximi shu bilan birga xalqaro IELTS, SAT, TOEFL, DUOLINGO imtihonlarigacha bili olish xam mumkin. Sizdan faqatgina bu imkoniyatdan 
 foydalanib qolish va do'stlarga ulashish yetarlidir.
 
-Languala - ingliz tilini innovatsion metodika orqali mutlaqo bepul tarzda noldan to mukammalikgacha barcha yosh egalari uchun o'rganish imkonini beruvchi O'zbekistondagi birinchi ko'p funktsiyalik loyiha!
 
-Chet tillarini yoki aynan ingliz tilini o'rganish uchun yetarli mablag' sizda mavjud emasmi? Endilikda o'quv markazlarga borib pul sarflab o'rganish shart emas. Endi telefoningizga bir nechta ilovalarni qayta-qayta topib yuklash shart emas. Endilikda o'zbek tilida googledan soatlab o'tirib yaxshi kontent topish kerak emas! Barchasi bitta ilovada! 
-
-Yangi innovatsion metodika 2020 yilning 25 dekabr kuni "O'zbekiston yoshlari forumi-2020" da yurtimiz prezidentiga yo'llangan taklif orqali quvonib ishlab chiqishga va harakatchan yoshlarga katta imkon yaratish uchun ushbu katta loyihaga qo'l urdik. 
-
-Innovatsion metodika orqali barcha yoshdagilar shunigdek yosh bolalar yoxud talaba bo'lish yoki IELTS/CEFR imtihonini muvaffaqiyatli topshirishni istaganlar uchundir.  Alfavitni o'rganishni boshlashdan to mukammal o'rganishgacha! Dasturni yuklaganlar boshqa dasturdan foydalanmasligi mumkin chunki barcha kerakli funktsiyalar shuni ichiga kiritilgan.
-
-Barchasi o'zbek tilida va mutlaqo bepul tarzda ulashadigan dastur birinchi marotaba ishlab chiqilgan:
-
-English for KIDS
-General English
-IELTS full course
-English for abiturients
-Grammar notes
-Student in foreign country
-Funny games
-Amazing tests
-Translater
-
-Yangi so'zlarni o'zbek tili bilan uyg'unlashtirib ularni o'rniga ingliz tilidagi tarjimaga qarab yod olish metodikasi butun dunyoda qo'llanmoqda ammo O'zbekistonda aholi xorijiy tillarni o'z ona-tilida ajoyib muhit orqali tushunib o'rganishni istashadi. Dastur esa aynan shu kabi muammolarni yechadi.
-
-Impossible is possible!
-
-Nega ynan Languala platformasidan foydalanish kerak, telegramda kanalllar ko'pku? 
+ 👀Nega ynan Languala platformasidan foydalanish kerak, telegramda kanalllar ko'pku? 
 
 Javob: ushbu platformada barcha darslar sfiatli va barchasi platformani o'zidayoq joylashgan, hozirgi kunda ushbu etodika orqali ko'pkina yoshlar oliy ta'lim muassasalariga kirishda yordam bermoqda va ular o'z bilimlarini oshirishmoqda. Languala platformasida videodarslar, kitoblar, qo'llanmalar, audio-eshittirishlar barchasi platformani o'zidayoq jamlangan va ularni topish shart emas, shunchaki o'zingizni darajangizni bilish uchun testdan o'tasiz va darslarni boshlaysiz darslar ketma-ketligi borligi esa foydalanuvchiga eng asosiy qulayliklardan biri bo'ladi.
 
