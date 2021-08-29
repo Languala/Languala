@@ -1,8 +1,3 @@
-- Hi, I’m @Languala
-- I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
  👋 Siz Languala deyishga qiynalyabsizmi, demak chet tillarini organish v
@@ -10,7 +5,7 @@ Vaqt-soati keldi! O'rganishuchun pulingiz yetarli emasmi? O'quv markaz uzoqlik q
 foydalanib qolish va do'stlarga ulashish yetarlidir.
 
 
- 👀Nega ynan Languala platformasidan foydalanish kerak, telegramda kanalllar ko'pku? 
+ 👀Nega aynan Languala platformasidan foydalanish kerak, telegramda kanalllar ko'pku? 
 
 Javob: ushbu platformada barcha darslar sfiatli va barchasi platformani o'zidayoq joylashgan, hozirgi kunda ushbu etodika orqali ko'pkina yoshlar oliy ta'lim muassasalariga kirishda yordam bermoqda va ular o'z bilimlarini oshirishmoqda. Languala platformasida videodarslar, kitoblar, qo'llanmalar, audio-eshittirishlar barchasi platformani o'zidayoq jamlangan va ularni topish shart emas, shunchaki o'zingizni darajangizni bilish uchun testdan o'tasiz va darslarni boshlaysiz darslar ketma-ketligi borligi esa foydalanuvchiga eng asosiy qulayliklardan biri bo'ladi.
 
